@@ -1,6 +1,6 @@
 //Author:Junhao Chen , Zachary Detton , Guadalupe Arreola
 //Date:11/29
-
+//Purpose: replace the letters with the word you input and output
 #include<stdio.h>
 #define FILE_NAME "madlib1.txt"
 
